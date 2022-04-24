@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+  {
+  "source": {
+  "id": null,
+  "name": "The Indian Express"
+  },
+  "author": "Sports Desk",
+  "title": "IPL 2022, GT vs CSK Live Score: Chennai lose 2 early wickets as powerplay ends - The Indian Express",
+  "description": "IPL 2022 GT vs CSK Live Cricket Score Streaming Online Today Match, Star Sports 1 Hindi, Hotstar IPL Live: Gujarat Titans vs Chennai Super Kings takes place in Pune.",
+  "url": "https://indianexpress.com/article/sports/ipl/ipl-2022-gt-vs-csk-live-score-updates-7873399/",
+  "urlToImage": "https://images.indianexpress.com/2022/04/GT-vs-CSK-Live-1.jpg",
+  "publishedAt": "2022-04-17T14:31:08Z",
+  "content": "IPL 2022, GT vs CSK Live Cricket Score Streaming Online Today Match Updates: Here are the two squads\r\nChennai Super Kings Squad: Robin Uthappa, Ruturaj Gaikwad, Moeen Ali, Ambati Rayudu, Shivam Dube,… [+810 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "NDTV News"
+  },
+  "author": "Abhimanyu Bose",
+  "title": "PBKS vs SRH: 4 Wickets And No Run In Dramatic Final Over Bowled By Umran Malik. Watch | Cricket News - NDTV Sports",
+  "description": "IPL 2022: Umran Malik returned with a spell of 4-28 in his quota of four overs against Punjab Kings.",
+  "url": "https://sports.ndtv.com/ipl-2022/pbks-vs-srh-4-wickets-and-no-run-in-dramatic-final-over-bowled-by-umran-malik-watch-2895549",
+  "urlToImage": "https://c.ndtvimg.com/2022-04/13iqjgu_umran-malik-bcci_625x300_17_April_22.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=675",
+  "publishedAt": "2022-04-17T13:05:40Z",
+  "content": "Bowling in the death is one of the most difficult tasks in cricket, especially in the shorter formats when batters are looking to go hell for leather. Death bowlers are entrusted with great responsib… [+2024 chars]"
+  }
+  ]
+  }
